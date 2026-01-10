@@ -1,0 +1,7 @@
+{
+  "name": "宠博士·云伴 (Pet Dr. Cloud Companion)",
+  "description": "An intelligent soothing tool designed for pets with separation anxiety, featuring real-time bark detection and automated calming sounds.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
